@@ -1,0 +1,33 @@
+2023-04-09 21:06:55.980 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:06:55.994 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:08:02.706 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:08:02.713 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:09:48.865 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:09:48.872 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:10:02.737 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:10:02.745 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:10:02.755 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:20:23.551 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:20:23.559 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:20:23.572 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:26:57.802 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:26:57.812 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:26:57.826 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:27:39.494 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:27:39.502 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:27:39.517 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:31:37.956 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:31:37.964 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:31:37.977 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:36:17.122 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:36:17.130 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:36:17.142 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:39:38.147 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:39:38.157 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:39:38.182 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:44:24.330 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:44:24.341 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:44:24.361 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
+2023-04-09 21:45:21.538 [main] DEBUG c.a.excel.context.WriteContextImpl - Begin to Initialization 'WriteContextImpl'
+2023-04-09 21:45:21.546 [main] DEBUG c.a.e.m.property.ExcelHeadProperty - The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2023-04-09 21:45:21.561 [main] DEBUG c.a.excel.context.WriteContextImpl - CurrentConfiguration is writeWorkbookHolder
